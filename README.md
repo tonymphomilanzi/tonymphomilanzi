@@ -1,5 +1,5 @@
 # 
-Hey, I’m Tony—a full-stack developer and designer who loves bringing ideas to life from both the code and creative side. I build modern, user-friendly web and mobile apps with clean designs and smooth experiences.<br><br>I work with JavaScript, React, Next.js, React Native, Firebase, and whatever else it takes to get the job done. Always learning, always building, always creating.
+Hey, I’m Tony—a full-stack developer and designer who loves bringing ideas to life from both the code and creative side. I build modern, user-friendly web and mobile apps with clean designs and smooth experiences.<br>
 
 
 ## 🌐 Socials:
