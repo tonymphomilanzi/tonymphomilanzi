@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ae586067-1a82-4c61-b59c-4f0678b4b1bb)
+
 
 <!--
 **tonymphomilanzi/tonymphomilanzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
