@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,py,react,nextjs,nodejs,mongodb,threejs,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,py,react,nextjs,nodejs,mongodb,threejs,tensorflow,androidstudio,firebase,supabase,appwrite,ps,ai)](https://skillicons.dev)
