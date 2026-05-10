@@ -1,5 +1,5 @@
 # 
-Hey, I’m Tony—a full-stack developer and designer who loves bringing ideas to life from both the code and creative side. I build modern, user-friendly web and mobile apps with clean designs and smooth experiences.<br>
+I grew up watching technology transform how people connect - and I became obsessed with being someone who builds those transformations. Self-taught across engineering, code, design, and writing, I create digital experiences that are as thoughtful as they are functional.<br>
 
 
 ## 🌐 Socials:
